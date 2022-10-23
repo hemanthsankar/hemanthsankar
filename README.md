@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HemanthSankar
+- 👋 Hi, I’m @hemanthankar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Computer Science Engineering
 - 💞️ I’m looking to collaborate on
