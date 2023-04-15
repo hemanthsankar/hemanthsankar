@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hemanthankar
+- 👋 Hi, I’m @hemanthsankar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently studying Computer Science and Engineering (CSE)
+- 🌱 I’m currently studying Computer Science and Engineering (Core CSE)
 - 💞️ I’m looking to collaborate on Open Source Projects
-- 📫 Reach me @ihemanthsankar (LinkedIn)
+- 📫 Reach me @hemanthsankar (LinkedIn)
 
 <!---
 HemanthSankar/HemanthSankar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
