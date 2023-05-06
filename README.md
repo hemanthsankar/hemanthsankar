@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hemanthsankar
 - 👀 I’m interested in Coding
-- 🌱 I’m currently studying Computer Science and Engineering (Core CSE)
+- 🌱 I’m currently studying Computer Science and Engineering
 - 💞️ I’m looking to collaborate on Open Source Projects
 - 📫 Reach me @hemanthsankar (LinkedIn)
 
