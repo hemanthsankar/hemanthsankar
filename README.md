@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Hemanth Sankar</h1>
 <h3 align="center">A passionate full stack developer and a undergrad student from India</h3>
 
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Programming
 - 🌱 I’m currently studying Computer Science and Engineering
 - 💞️ I’m looking to collaborate on Open Source Projects
   
