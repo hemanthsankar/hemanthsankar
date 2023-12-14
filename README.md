@@ -11,7 +11,7 @@ HemanthSankar/HemanthSankar is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 <h1 align="center">Hi 👋, I'm Hemanth Sankar</h1>
-<h3 align="center">A passionate full stack developer and a undergrad student from India</h3>
+<h3 align="center">A passionate full-stack developer and an undergrad student from India</h3>
 
 - 👀 I’m interested in Programming
 - 🌱 I’m currently studying Computer Science and Engineering
