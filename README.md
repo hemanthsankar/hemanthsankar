@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src=""/>
+  <img height="150"/>
 </div>
 
 <h1 align="center">Hey there 👋, I'm Hemanth Sankar</h1>
